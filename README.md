@@ -1,107 +1,194 @@
-# Adarsh Chate
+<div align="center">
 
-### Full Stack Developer · Software Engineer
+# 👋 Adarsh Chate
 
-**PHP · Laravel · JavaScript · MySQL · REST APIs · WordPress**
+### Software Engineer | Backend & Full Stack Developer
 
-Full Stack Developer with **3+ years of professional experience** building scalable web applications and backend systems. Experienced in **PHP, Laravel, CodeIgniter, JavaScript, REST API development, database design, and CMS development**.
-Focused on writing **clean, maintainable, secure, and performance-oriented software** that solves real business problems.
-Experienced across **web applications, API integrations, travel technology, education platforms, enterprise systems, and SEO-friendly websites**.
+**Building reliable web applications, backend services, and API-driven systems.**
 
----
+<a href="https://adarshchate.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Adarsh Chate's portfolio">
+</a>
+<a href="https://linkedin.com/in/adarshchate">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Adarsh Chate on LinkedIn">
+</a>
+<a href="https://github.com/adarshchate">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Adarsh Chate on GitHub">
+</a>
+<a href="mailto:adarshchate@outlook.in">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Adarsh Chate">
+</a>
 
-## Tech Stack
+📍 Pune, Maharashtra, India
 
-### Backend & APIs
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square\&logo=codeigniter\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vue.js\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square\&logo=jquery\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
+</div>
 
 ---
 
-## Core Skills
+## 👨‍💻 About Me
 
-| Area                     | Skills                                                                   |
-| ------------------------ | ------------------------------------------------------------------------ |
-| **Backend Development**  | PHP, Laravel, CodeIgniter, Python, Business Logic                        |
-| **API Development**      | REST APIs, API Integration, Postman, JSON, XML                           |
-| **Frontend Development** | JavaScript, Vue.js, jQuery, HTML5, CSS3, Bootstrap, AJAX                 |
-| **Database Engineering** | MySQL, PostgreSQL, Database Design, SQL Optimization                     |
-| **CMS Development**      | WordPress, Custom CMS Development                                        |
-| **Software Engineering** | Debugging, Software Design, Application Architecture                     |
-| **Performance**          | Query Optimization, Application Optimization, Response Time Optimization |
-| **Deployment**           | Production Deployment, Server Configuration, Application Maintenance     |
-| **Quality**              | API Testing, Cross-Browser Testing, Troubleshooting                      |
+I'm **Adarsh Chate, a Software Engineer and Backend & Full Stack Developer with 3 years of professional experience** building and maintaining web applications, backend services, REST APIs, and database-driven systems.
 
----
+My professional background includes **PHP, Laravel, CodeIgniter, JavaScript, MySQL, PostgreSQL, API development, third-party integrations, and application maintenance**. I've contributed to software across travel technology, booking platforms, education technology, CMS, and enterprise web applications.
 
-## What I Build
+I focus on writing clean, maintainable code, solving practical engineering problems, designing dependable APIs, and building software that supports real business workflows. My technical interests also include Python backend development, FastAPI, Django, Generative AI, and Agentic AI.
 
-* Scalable web applications
-* Backend systems and business platforms
-* REST APIs and third-party integrations
-* Database-driven applications
-* Travel and booking platforms
-* Education and training platforms
-* WordPress and CMS solutions
-* Responsive and SEO-friendly websites
-* Performance-focused web applications
+- 🔧 **Primary expertise:** Backend and full-stack web development
+- 🔌 **API engineering:** REST APIs, third-party integrations, and API testing
+- 🗄️ **Data:** SQL, database design, and query optimization
+- 🌐 **Web platforms:** Travel systems, education platforms, CMS, and WordPress
+- 🧠 **Technical interests:** Python backend development and AI-enabled applications
+
+🌐 **Portfolio:** [adarshchate.github.io](https://adarshchate.github.io/)
 
 ---
 
-## Engineering Focus
+## 🧰 Technical Skills
 
-**Clean Code** · **Scalable Architecture** · **API Design** · **Database Optimization**
-**Performance** · **Debugging** · **Production Deployment** · **Application Reliability**
+### 💻 Programming Languages
 
----
-
-## Currently Exploring
-
-**Python · Artificial Intelligence · Machine Learning · Generative AI · AI-Assisted Development · Automation · Modern Backend Architecture · API Engineering · Cloud Technologies · Database Performance · Emerging Developer Tools**
-
----
-
-## Education
-
-**Master of Computer Applications — Machine Learning**
-Amity University · 2023–2025
-
-**Bachelor of Computer Applications**
-Savitribai Phule Pune University · 2019–2022
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/adarshchate)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:adarshchate.work@gmail.com)
-
-**Pune, Maharashtra, India**
-
----
-
-<p align="center">
-  <sub>Full Stack Developer · Software Engineer · PHP · Laravel · JavaScript · REST APIs</sub>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
 </p>
+
+### ⚙️ Backend Development & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
+
+**Backend skills:** Server-side development, business logic, MVC architecture, API design, debugging, application maintenance, and production deployment support.
+
+### 🌐 Frontend & Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+</p>
+
+**Web skills:** Responsive interfaces, AJAX, JSON, XML, cross-browser compatibility, and CMS-powered websites.
+
+### 🔌 APIs & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge" alt="XML">
+</p>
+
+- RESTful API development and testing
+- Third-party service integration
+- Travel API integrations, including Amadeus, TBO, and SiteMinder
+- API troubleshooting, request validation, and integration maintenance
+
+### 🗄️ Databases & Data Management
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+**Database skills:** Relational database design, schema development, SQL queries, query optimization, data integrity, and database-driven application development.
+
+### 🧩 CMS, Platforms & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</p>
+
+- WordPress development and CMS customization
+- Moodle-based learning platforms
+- Git version control and GitHub repositories
+- API testing with Postman
+- PDF document generation with mPDF
+- Application troubleshooting, maintenance, and deployment support
+
+### 🤖 Python Backend & AI Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Agentic%20AI-5B4BDB?style=for-the-badge" alt="Agentic AI">
+</p>
+
+Current technical focus includes Python backend development, FastAPI, Django, Generative AI, Agentic AI, automation, and AI-enabled developer workflows. These are areas of ongoing learning and exploration, distinct from my established professional experience with PHP and Laravel.
+
+---
+
+## 🧠 Core Engineering Strengths
+
+| Area | Capabilities |
+|---|---|
+| **Backend Engineering** | PHP, Laravel, CodeIgniter, server-side application logic |
+| **API Engineering** | REST APIs, third-party integrations, Postman, JSON, XML |
+| **Database Development** | MySQL, PostgreSQL, schema design, SQL optimization |
+| **Full Stack Development** | JavaScript, Vue.js, HTML, CSS, Bootstrap, AJAX |
+| **Software Quality** | Debugging, API testing, cross-browser testing, troubleshooting |
+| **Application Reliability** | Production maintenance, performance optimization, data integrity |
+| **Web Platforms** | Travel technology, booking systems, education platforms, WordPress, Moodle |
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA) — Machine Learning**  
+Amity University Online · 2023–2025
+
+**Bachelor of Computer Applications (BCA)**  
+PDEA's Annasaheb Magar Mahavidyalaya · Savitribai Phule Pune University · 2019–2022
+
+---
+
+## 📜 Certifications & Courses
+
+- ☕ **Industry Ready Java Spring Developer** — Telusko · July 2024
+- ☁️ **AWS Cloud Practitioner course** — Udemy · April 2024
+- 🐘 **Core PHP and Advanced PHP** — Vision Academy · May 2022
+
+*The AWS item is described as a course; use the official certification title only if the corresponding AWS certification exam was passed.*
+
+---
+
+## 🌍 Languages
+
+- 🇮🇳 **Marathi**
+- 🇮🇳 **Hindi**
+- 🌐 **English**
+
+---
+
+## 🤝 Contact & Social Links
+
+I'm open to software engineering opportunities, backend and full-stack development roles, and technical collaborations.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adarshchate.github.io-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adarshchate.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Chate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshchate)
+[![GitHub](https://img.shields.io/badge/GitHub-adarshchate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshchate)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:adarshchate@outlook.in)
+
+📍 Pune, Maharashtra, India
+
+**Building reliable systems, one layer at a time.**
+
+<sub>© 2026 Adarsh Chate</sub>
+
+</div>
