@@ -148,7 +148,7 @@ Current technical focus includes Python backend development, FastAPI, Django, Ge
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA) — Machine Learning**  
+**Master of Computer Applications (MCA) - Machine Learning**  
 Amity University Online · 2023–2025
 
 **Bachelor of Computer Applications (BCA)**  
