@@ -7,16 +7,16 @@
 **Building reliable web applications, backend services, and API-driven systems.**
 
 <a href="https://adarshchate.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Adarsh Chate's portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A84FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Adarsh Chate's portfolio">
 </a>
 <a href="https://linkedin.com/in/adarshchate">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Adarsh Chate on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Adarsh Chate on LinkedIn">
 </a>
 <a href="https://github.com/adarshchate">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Adarsh Chate on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="Adarsh Chate on GitHub">
 </a>
 <a href="mailto:adarshchate@outlook.in">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Adarsh Chate">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Adarsh Chate">
 </a>
 
 📍 Pune, Maharashtra, India
@@ -107,7 +107,7 @@ I focus on writing clean, maintainable code, solving practical engineering probl
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
 
@@ -156,16 +156,6 @@ PDEA's Annasaheb Magar Mahavidyalaya · Savitribai Phule Pune University · 2019
 
 ---
 
-## 📜 Certifications & Courses
-
-- ☕ **Industry Ready Java Spring Developer** — Telusko · July 2024
-- ☁️ **AWS Cloud Practitioner course** — Udemy · April 2024
-- 🐘 **Core PHP and Advanced PHP** — Vision Academy · May 2022
-
-*The AWS item is described as a course; use the official certification title only if the corresponding AWS certification exam was passed.*
-
----
-
 ## 🌍 Languages
 
 - 🇮🇳 **Marathi**
@@ -174,20 +164,18 @@ PDEA's Annasaheb Magar Mahavidyalaya · Savitribai Phule Pune University · 2019
 
 ---
 
-## 🤝 Contact & Social Links
+## 🤝 Connect
 
-I'm open to software engineering opportunities, backend and full-stack development roles, and technical collaborations.
+Open to software engineering opportunities, backend and full-stack development roles, and technical collaborations.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adarshchate.github.io-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adarshchate.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Chate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshchate)
-[![GitHub](https://img.shields.io/badge/GitHub-adarshchate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshchate)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:adarshchate@outlook.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A84FF?style=flat-square&logo=googlechrome&logoColor=white)](https://adarshchate.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshchate)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adarshchate)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:adarshchate@outlook.in)
 
-📍 Pune, Maharashtra, India
-
-**Building reliable systems, one layer at a time.**
+<sub>Pune, Maharashtra, India · Building reliable systems, one layer at a time.</sub>
 
 <sub>© 2026 Adarsh Chate</sub>
 
